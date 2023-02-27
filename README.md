@@ -5,6 +5,7 @@
 # Команда разработчиков
 Токарева Полина Алексеевна, Федосова Мила Александровна, Ромачев Дмитрий Алексеевич.
 # Ссылки на проект и сопутствующие к проекту файлы:
-Документация: https://docs.google.com/document/d/1cQcISAClbWg1UwJo1F5gNMFXJ4ggNsMDckdAMstsuWE/edit?usp=sharing
-Схемы Miro:
-Таск-менеджер:
+# Документация:
+https://docs.google.com/document/d/1cQcISAClbWg1UwJo1F5gNMFXJ4ggNsMDckdAMstsuWE/edit?usp=sharing
+# Схемы Miro:
+# Таск-менеджер:
