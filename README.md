@@ -16,3 +16,6 @@
 ГОСТ 34.602-89 Техническое задание: https://docs.google.com/document/d/1cQcISAClbWg1UwJo1F5gNMFXJ4ggNsMDckdAMstsuWE/edit?usp=sharing
 # Функциональные схемы
 # Таск-менеджер
+https://tracker.yandex.ru/agile/board/1
+# Функциональная схема работы приложения
+https://miro.com/app/board/uXjVPEQjSbs=/?share_link_id=681059333766
