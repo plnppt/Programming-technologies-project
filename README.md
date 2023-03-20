@@ -17,7 +17,7 @@
 # Сопутствующие проекту сервисы и документация:
 - [Trello](https://trello.com/b/GA67Vwpq/система-каршеринга-с-возможностью-онлайн-бронирования-и-оплаты)<br />
 - [Miro](https://miro.com/app/board/uXjVPEQjSbs=/?share_link_id=681059333766)<br />
-- [Курсовой проект](https://docs.google.com/document/d/19TyntLlpbj-EYroFt7PGwVB4KtiRgF31wmZxYX5vvBw/edit?usp=sharing)<br /> 
+- [Курсовой проект](https://github.com/plnppt/Programming-technologies-project/blob/master/Курсовой%20проект.pdf)<br /> 
 - [Техническое задание](https://docs.google.com/document/d/1cQcISAClbWg1UwJo1F5gNMFXJ4ggNsMDckdAMstsuWE/edit?usp=sharing)<br /> 
 - [Figma](https://www.figma.com/file/BBRdUWfbXjf8dhf9R5g0lC/%D0%9A%D0%B0%D1%80%D1%88%D0%B5%D1%80%D0%B8%D0%BD%D0%B3?node-id=0%3A1&t=HeMYVdNPsMy2vdgz-1)<br /> 
 
