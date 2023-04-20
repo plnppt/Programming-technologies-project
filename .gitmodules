@@ -1,3 +1,6 @@
 [submodule "carPark_server"]
 	path = carPark_server
 	url = https://github.com/ksmtrv/carPark_server.git
+[submodule "carPark_client"]
+	path = carPark_client
+	url = https://github.com/plnppt/carPark_client.git
