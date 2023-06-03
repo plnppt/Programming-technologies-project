@@ -1,0 +1,50 @@
+version: '3.7'
+
+services:
+  web:
+    build: 
+      context: ./carPark_server
+      dockerfile: Dockerfile
+    command: gunicorn config.wsgi:application --bind 0.0.0.0:7000
+    volumes:
+      - static_volume:/home/app/web/staticfiles
+      - comm_volume:/home/app/web
+      - media_volume:/home/app/web/media
+    expose:
+      - 7000
+    env_file:
+      - ./.env
+    depends_on:
+      - db
+  db:
+    image: postgres:13.0-alpine
+    ports:
+      - 5432:5432
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+      - media_volume:/home/app/web/media
+    env_file:
+      - ./.env.db
+  nginx:
+    build: ./nginx
+    volumes:
+      - static_volume:/home/app/web/staticfiles
+      - media_volume:/home/app/web/media
+    ports:
+      - 7000:80
+    depends_on:
+      - web
+  front:
+    build:
+      context: ./carPark_client
+      dockerfile: Dockerfile
+    volumes:
+      - comm_volume:/home/app/web
+    depends_on:
+      - web
+
+volumes:
+  postgres_data:
+  static_volume:
+  media_volume:
+  comm_volume:
