@@ -1,12 +1,12 @@
 # TP-4.1-4
 Проект "Веб-приложение автопарка с возможностью онлайн бронирования и оплаты"<br />
 
-# Выполняют студенты группы 4.1:<br />
-* [Токарева Полина](https://github.com/plnppt)<br />
-* [Федосова Мила](https://github.com/MilaMi1a)<br />
-* [Смотрова Кристина](https://github.com/ksmtrv)<br />
+## Выполняют студенты группы 4.1:<br />
+* [Токарева Полина](https://github.com/plnppt) - **тимлид, бизнес-аналитика**<br />
+* [Федосова Мила](https://github.com/MilaMi1a) - **разработка**<br />
+* [Смотрова Кристина](https://github.com/ksmtrv) - **project management**<br />
 
-# Описание проекта:<br />
+## Описание проекта:<br />
 Данный проект направлен на разработку веб-приложения для компании, предоставляющей услуги бронирования машин с автопарка.<br />
 <br /> Здесь будет возможность:
 * выбрать машину из представленного каталога
@@ -15,13 +15,28 @@
 
 Также, в веб-приложении клиентам будет доступна услуга "Поддержка", которая позволяет заполнить и отправить форму письма на почту компании.<br />
 
-# Сопутствующие проекту сервисы и документация:
-- [Trello](https://trello.com/b/GA67Vwpq/система-каршеринга-с-возможностью-онлайн-бронирования-и-оплаты)<br />
-- [Miro](https://miro.com/app/board/uXjVPEQjSbs=/?share_link_id=681059333766)<br />
-- [Курсовой проект](https://github.com/plnppt/Programming-technologies-project/tree/master/Курсовой%20проект)<br /> 
-- [Техническое задание](https://github.com/plnppt/Programming-technologies-project/tree/master/Техническое%20задание)<br /> 
-- [Figma](https://www.figma.com/file/BBRdUWfbXjf8dhf9R5g0lC/%D0%9A%D0%B0%D1%80%D1%88%D0%B5%D1%80%D0%B8%D0%BD%D0%B3?node-id=0%3A1&t=HeMYVdNPsMy2vdgz-1)<br />
-- [Видеопрезентация продакшн макетов в Figma](https://drive.google.com/drive/folders/1Br-dU6CchNWwLAyggap6VBpt1RcF8YFe)<br />
-- [Личный кабинет аналитики](https://metrika.yandex.ru/dashboard?id=93802524)<br />
+## Веб-приложение и сопутствующие ему данные:
+- [Учетные данные]()<br />
 - [PMK](http://46.29.161.218:7000)<br />
 - [Swagger](http://46.29.161.218:7000/swagger/)<br />
+
+## Сопроводительное письмо:
+- [Сопроводительное письмо]()<br />
+
+## Сопутствующие проекту сервисы:
+- [Trello](https://trello.com/b/GA67Vwpq/система-каршеринга-с-возможностью-онлайн-бронирования-и-оплаты)<br />
+- [Miro](https://miro.com/app/board/uXjVPEQjSbs=/?share_link_id=681059333766)<br />
+- [Figma](https://www.figma.com/file/BBRdUWfbXjf8dhf9R5g0lC/%D0%9A%D0%B0%D1%80%D1%88%D0%B5%D1%80%D0%B8%D0%BD%D0%B3?node-id=0%3A1&t=HeMYVdNPsMy2vdgz-1)<br />
+
+## Сопутствующая проекту документация:
+- [Курсовой проект](https://github.com/plnppt/Programming-technologies-project/tree/master/Курсовой%20проект)<br /> 
+- [Техническое задание](https://github.com/plnppt/Programming-technologies-project/tree/master/Техническое%20задание)<br /> 
+
+## Сопутствующие проекту презентации:
+- [Видеопрезентация продакшн макетов в Figma](https://drive.google.com/drive/folders/1Br-dU6CchNWwLAyggap6VBpt1RcF8YFe)<br />
+- [Видеопрезентации работы веб-приложения, сервера и клиента](https://drive.google.com/file/d/1TF7t5QysH6d2gZgrRopZW3Gaci0QBnBT/view?usp=sharing)<br />
+- [Презентация веб-приложения]()<br />
+
+## Аналитика веб-приложения:
+- [Личный кабинет аналитики](https://metrika.yandex.ru/dashboard?id=93802524)<br />
+- [Аналитика веб-приложения](https://github.com/plnppt/Programming-technologies-project/tree/master/Аналитика%20веб-приложения)<br />
