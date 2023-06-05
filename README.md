@@ -35,6 +35,7 @@
 ## Сопутствующие проекту презентации:
 - [Видеопрезентация продакшн макетов в Figma](https://drive.google.com/drive/folders/1Br-dU6CchNWwLAyggap6VBpt1RcF8YFe)<br />
 - [Видеопрезентации работы веб-приложения, сервера и клиента](https://drive.google.com/drive/u/1/folders/1vope6PB8pVRtjJP9BcnmtJtPYTNQ2t5w)<br />
+- [Видеопрезентация веб-приложения](https://drive.google.com/drive/folders/1inGNIhS1l9vhE-YSi1jeApSZNgs9u7lL?usp=sharing)<br />
 - [Презентация веб-приложения]()<br />
 
 ## Аналитика веб-приложения:
